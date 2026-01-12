@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "哀愁東京",
+  "base_artist": "indigo la End",
+  "createdAt": "2026-01-12T08:58:18.312998Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "哀愁東京",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/01_哀愁東京_indigo_la_End.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "哀愁東京",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_哀愁東京_indigo_la_End.txt"
+    }
+  ]
+}
